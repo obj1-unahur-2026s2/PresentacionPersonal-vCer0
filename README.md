@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es: Valentin Vedia 
-- Vivo en San Miguel
+- Mi nombre es: 
+- Vivo en 
 
 
 ### Otra Información
 - Este es mi primer contacto con Github
-- Estoy cursando la tecnicatura en programación
+
