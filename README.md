@@ -9,4 +9,5 @@
 
 
 ### Otra Información
-- Este es mi primer contacto con github
+- Este es mi primer contacto con Github
+- Estoy cursando la tecnicatura en programación
